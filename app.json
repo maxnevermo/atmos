@@ -32,6 +32,19 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Codega/Codega-Demo.ttf",
+            "./assets/fonts/Circe/Circe-Thin.ttf",
+            "./assets/fonts/Circe/Circe-Light.ttf",
+            "./assets/fonts/Circe/Circe-Regular.ttf",
+            "./assets/fonts/Circe/Circe-Bold.ttf",
+            "./assets/fonts/Circe/Circe-ExtraBold.ttf"
+          ]
+        }
       ]
     ],
     "experiments": {
